@@ -4,6 +4,4 @@
 --Elephant
 --Leopord
 --peacock
-=======
 --Tiger
->>>>>>> feature
