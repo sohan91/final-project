@@ -1,5 +1,9 @@
 --Lion
 --Tiger
+<<<<<<< HEAD
 --Elephant
 --Leopord
 --peacock
+=======
+--Tiger
+>>>>>>> feature
